@@ -5,9 +5,9 @@
 {% endcomment %}
 
 
-{% if site.favicon-32x32 %}
+{% if site.favicon-16x16 %}
 	{% comment %} Regular Old-Skool Favicon: {% endcomment %}
-	<link rel="icon" sizes="32x32" href="{{ site.url }}/assets/img/{{ site.favicon-32x32 }}">
+	<link rel="icon" sizes="16x16" href="{{ site.url }}/assets/img/{{ site.favicon-16x16 }}">
 {% endif %}
 
 

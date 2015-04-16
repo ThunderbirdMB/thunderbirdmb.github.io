@@ -121,7 +121,11 @@ img { border-radius: $global-radius;}
     img.right       { float: right; margin:5px 0 5px 15px; }
     img.aligncenter,
     img.center      { display: block; margin:0 auto 10px; }
-
+.h2img {
+        font-family: $header-font-family;
+        font-size: $font-size-h2;
+	margin: 1.563em 0 0 0;
+       }
 figure {
     margin: 0 0 rem-calc(30) 0;
 }
