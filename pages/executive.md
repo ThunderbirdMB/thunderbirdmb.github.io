@@ -9,17 +9,17 @@ published: true
 
 The Thunderbird Marching Band is led by our six-member Executive team, consisting entirely of UBC students. You can see a further in-depth look at our organizational structure in our [Constitution](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0aHVuZGVyYmlyZG1hcmNoaW5nYmFuZHxneDo1NzE1MDYxMWY5NjhhMDky).
 
+<div class="row">
+    <div class="medium-9 columns" markdown="1">
 ##President: Vivienne Zhang
 _<president@thunderbirdband.ca>_
 
-<div class="row">
-    <div class="medium-9 columns" markdown="1">
 Presently a first year undergraduate in the Faculty of Arts at UBC, Vivienne is more than delighted to participate in the Thunderbird Marching Band’s executive team. Vivienne spent her secondary school years in both Beijing, China and Coquitlam, BC, Canada. Over the past four years, rock music helped blossom her interest in learning new instruments such as drums, guitars, and basses, and now she plays the bass drum for the Thunderbird Marching Band. Aside from getting involved in the TMB, Vivienne is also a floor representative of House Dene and a member of the Totem Park Residence Association.
 
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img src="{{ site.url }}/images/exec_vivienne.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/exec_vivienne.jpg" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
