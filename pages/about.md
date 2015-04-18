@@ -20,7 +20,7 @@ The Thunderbird Marching Band, or __TMB__, founded in September 2012, is the Uni
 <div class="small-12 medium-8 large-8 columns" markdown="1">
 
 ##A Student-Run Band
-The TMB is one of nine student-run marching bands in North America. Our members organize performances, write our halftime shows, select the music we play, and promote the band to the UBC campus and beyond. Not only do our members gain musical experience by participating in the band, they gain leadership experience as well! Our elected six-member [executive](/about/executive/) manages the band behind-the scenes, while our student staff ensure that rehearsals and performances run smoothly.
+The TMB is one of nine student-run marching bands in North America. Our members organize performances, write our halftime shows, select the music we play, and promote the band to the UBC campus and beyond. Not only do our members gain musical experience by participating in the band, they gain leadership experience as well! Our elected six-member [executive](/about/executive/) manages the band behind-the scenes, while our student staff ensure that rehearsals and performances run smoothly. Check out our [constitution](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0aHVuZGVyYmlyZG1hcmNoaW5nYmFuZHxneDo1NzE1MDYxMWY5NjhhMDky) to learn exactly how we operate.
 </div>
 </div>
 
