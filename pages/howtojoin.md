@@ -55,7 +55,7 @@ On our __<a href="http://facebook.com/groups/TMBRecruits" target="_blank">Prospe
 - Flickr: __<a href="http://flickr.com/ThunderbirdMB" target="_blank">ThunderbirdMB</a>__
 
 ### Learn our school songs
-If you're _really_ excited to join, you can get a head start by practicing UBC's fight songs and our Alma Mater. This is __completely optional__, and we'll teach these songs to you at Retreat too, but the more familiar you are with these songs, the more time you'll spend at retreat playing our fun rock charts!
+If you're _really_ excited to join, you can get a head start by practicing UBC's fight songs and our Alma Mater. This is __completely optional__, and we'll teach you these songs at Retreat too, but the more familiar you are with these songs, the more time you'll spend at retreat playing our fun rock charts!
 
 - __<a href="https://drive.google.com/open?id=0B2_M28J6dJ5bfi1vSHkyMFlvSG1lSzdib3lLNGZ4MGpqa3dqT3ZHMVdyOEMtZUJ4Y3VSeW8&authuser=0" target="_blank">Hail UBC</a>__
 - __<a href="https://drive.google.com/open?id=0B2_M28J6dJ5bfkFtem5wY3g5SVItamxVejc0S3FhUEp3aXd2ZzU5ejFqWDktZWZZZllhRkU&authuser=0" target="_blank">Alma Mater Hymn</a>__
