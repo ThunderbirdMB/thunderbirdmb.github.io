@@ -1,6 +1,6 @@
 ---
 show_meta: "false"
-published: false
+published: true
 title: How To Join
 layout: "page-fullwidth"
 permalink: /howtojoin/
