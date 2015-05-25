@@ -3,7 +3,7 @@ show_meta: "false"
 published: true
 title: How To Join
 layout: "page-fullwidth"
-permalink: /howtojoin/
+permalink: /join/how/
 subheadline: What you need to do to join the band
 ---
 
