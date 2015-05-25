@@ -22,8 +22,10 @@ subheadline: What you need to do to join the band
 ## Step 1: Check Your Eligibility
 
 ### Are you a UBC student?
-- __Yes:__ Congratulations! As an Alma Mater Society (AMS) club, we welcome all UBC students to join the band. At the end of the year, you're even eligible to help lead the band as part of our [executive team](/executive/).
-- __No:__ That's okay. Most of us are UBC students, but a few of us aren't, and as long as you can make time to attend our rehearsals and gigs, you're still welcome to join! Since you're not a member of the AMS, we have to charge a slightly higher membership fee ($15 instead of $10), and you aren't eligible to run for our executive, but you still get to enjoy all the other perks of being a band member!
+- __Yes:__ 
+  - Congratulations! As an Alma Mater Society (AMS) club, we welcome all UBC students to join the band. At the end of the year, you're even eligible to help lead the band as part of our [executive team](/executive/).
+- __No:__ 
+  - That's okay. Most of us are UBC students, but a few of us aren't, and as long as you can make time to attend our rehearsals and gigs, you're still welcome to join! Since you're not a member of the AMS, we have to charge a slightly higher membership fee ($15 instead of $10), and you aren't eligible to run for our executive, but you still get to enjoy all the other perks of being a band member!
 
 ### Do you play an instrument?
 - __Yep, I play a brass/woodwind/percussion instrument.__
