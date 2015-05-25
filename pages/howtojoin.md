@@ -7,6 +7,18 @@ permalink: /howtojoin/
 subheadline: What you need to do to join the band
 ---
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 ## Step 1: Check Your Eligibility
 
 ### Are you a UBC student?
@@ -46,3 +58,6 @@ If you're really excited to join, you can get a head start by practicing UBC's f
 - [Alma Mater Hymn](https://drive.google.com/open?id=0B2_M28J6dJ5bfkFtem5wY3g5SVItamxVejc0S3FhUEp3aXd2ZzU5ejFqWDktZWZZZllhRkU&authuser=0)
 - [Hail to the Gold and Blue](https://drive.google.com/open?id=0B2_M28J6dJ5bfjFWWXhaNlFSM0JxVktYNEJzN0FUaDkzRVZSX0pmcTlaUHBsU2xIMUwxeGM&authuser=0)
 - [Here's to Dear Old UBC](https://drive.google.com/open?id=0B2_M28J6dJ5bfmE1a194bUc0RjBaSkl2MERra19qMXJkWE1mNEU4RUk2TmVyWXM3b3MzRnc&authuser=0)
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
