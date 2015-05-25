@@ -19,7 +19,7 @@ subheadline: What you need to do to join the band
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-## Step 1: Check Your Eligibility
+## Step 1: Check your eligibility
 
 ### Are you a UBC student?
 - __Yes:__ 
@@ -61,6 +61,9 @@ If you're _really_ excited to join, you can get a head start by practicing UBC's
 - __<a href="https://drive.google.com/open?id=0B2_M28J6dJ5bfkFtem5wY3g5SVItamxVejc0S3FhUEp3aXd2ZzU5ejFqWDktZWZZZllhRkU&authuser=0" target="_blank">Alma Mater Hymn</a>__
 - __<a href="https://drive.google.com/open?id=0B2_M28J6dJ5bfjFWWXhaNlFSM0JxVktYNEJzN0FUaDkzRVZSX0pmcTlaUHBsU2xIMUwxeGM&authuser=0" target="_blank">Hail to the Gold and Blue</a>__
 - __<a href="https://drive.google.com/open?id=0B2_M28J6dJ5bfmE1a194bUc0RjBaSkl2MERra19qMXJkWE1mNEU4RUk2TmVyWXM3b3MzRnc&authuser=0" target="_blank">Here's to Dear Old U.B.C.</a>__
+
+## Any questions?
+Check out our __[Frequently Asked Questions](/faq/)__, join our __<a href="http://facebook.com/groups/TMBRecruits" target="_blank">Prospective Members' Group</a>__, or email us at __<info@thunderbirdband.ca>__.
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
