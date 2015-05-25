@@ -54,6 +54,7 @@ On our [recruits group](http://facebook.com/groups/TMBRecruits), you can meet so
 
 ### Learn our school songs
 If you're really excited to join, you can get a head start by practicing UBC's fight songs and our Alma Mater. This is completely optional, and we'll spend time at Retreat learning these songs, but the more familiar you are with these songs, the more time you'll get to spend at retreat learning our fun rock charts!
+
 - [Hail UBC](https://drive.google.com/open?id=0B2_M28J6dJ5bfi1vSHkyMFlvSG1lSzdib3lLNGZ4MGpqa3dqT3ZHMVdyOEMtZUJ4Y3VSeW8&authuser=0)
 - [Alma Mater Hymn](https://drive.google.com/open?id=0B2_M28J6dJ5bfkFtem5wY3g5SVItamxVejc0S3FhUEp3aXd2ZzU5ejFqWDktZWZZZllhRkU&authuser=0)
 - [Hail to the Gold and Blue](https://drive.google.com/open?id=0B2_M28J6dJ5bfjFWWXhaNlFSM0JxVktYNEJzN0FUaDkzRVZSX0pmcTlaUHBsU2xIMUwxeGM&authuser=0)
