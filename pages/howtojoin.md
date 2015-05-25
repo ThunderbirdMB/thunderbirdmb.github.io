@@ -8,6 +8,7 @@ subheadline: What you need to do to join the band
 ---
 
 ## Step 1: Check Your Eligibility
+
 ### Are you a UBC student?
 - __Yes:__ Congratulations! As an Alma Mater Society (AMS) club, we welcome all UBC students to join the band. At the end of the year, you're even eligible to help lead the band as part of our [executive team](/executive/).
 - __No:__ That's okay. Most of us are UBC students, but a few of us aren't, and as long as you can make time to attend our rehearsals and gigs, you're still welcome to join! Since you're not a member of the AMS, we have to charge a slightly higher membership fee ($15 instead of $10), and you aren't eligible to run for our executive, but you still get to enjoy all the other perks of being a band member!
@@ -29,6 +30,7 @@ The TMB spends four days before classes start at Retreat, where we learn our mar
 Talk to your boss/parents/friends _now_ and clear your schedule of any other commitments from September 1-4, since you won't want to miss __any__ of Retreat! Near the end of June, we will contact you by email to confirm your attendance at Retreat, help you find a place to stay if you need one, and provide you with more details about what to expect.
 
 ## Optional Steps
+
 ### Join our Facebook recruits group
 On our [recruits group](http://facebook.com/groups/TMBRecruits), you can meet some of our returning members, ask questions about the band or UBC in general, and get a taste of what to expect once you join!
 
