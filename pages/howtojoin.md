@@ -43,7 +43,7 @@ The TMB spends four days before classes start at Retreat, where we learn our mar
 ## Step 3: Save the date and check your email!
 Talk to your boss/parents/friends _now_ and clear your schedule of any other commitments from __Tuesday, September 1st through Friday, September 4th__, since you won't want to miss __any__ of Retreat! Near the end of June, we will contact you by email to confirm your attendance at Retreat, help you find a place to stay if you need one, and provide you with more details about what to expect. Haven't heard from us by then? Give us a shout at <info@thunderbirdband.ca> and we'll make sure you're registered.
 
-## Optional Steps
+## Optional steps
 
 ### Join our Facebook group
 On our __<a href="http://facebook.com/groups/TMBRecruits" target="_blank">Prospective Members' Group</a>__, you can meet some of our returning members, ask questions about the band or UBC in general, and get a taste of what to expect once you join!
