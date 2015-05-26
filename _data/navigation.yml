@@ -19,6 +19,8 @@
   url: "/join/"
   side: left
   dropdown:
+  - title: "How to Join"
+    url: "/join/how/"
   - title: "FAQs"
     url: "/join/faqs/"
   - title: "Testimonials"
