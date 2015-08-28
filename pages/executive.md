@@ -78,7 +78,7 @@ Bio coming soon!
 ##Publicity Officer: Torr Chow
 _<publicity@thunderbirdband.ca>_
 
-Torr is currently a first year undergraduate student in the Faculty of Arts at UBC and is thrilled to be a part of the executive team. Even though their first instrument is technically the piano, once they started playing the alto saxophone, there was no going back. Torr has played in her secondary school's jazz band, which included a performance "for the Premier" (Said Premier was absent during the actual performance). Other than the Thunderbird Marching Band, they are a member of the Speech and Linguistics Student Association and a junior student in the Arts Tri-Mentoring Program.
+Torr is currently a first year undergraduate student in the Faculty of Arts at UBC and is thrilled to be a part of the executive team. Even though their first instrument is technically the piano, once they started playing the alto saxophone, there was no going back. Torr has played in their secondary school's jazz band, which included a performance "for the Premier" (Said Premier was absent during the actual performance). Other than the Thunderbird Marching Band, they are a member of the Speech and Linguistics Student Association and a junior student in the Arts Tri-Mentoring Program.
 
 </div><!-- /.medium-9.columns -->
 
