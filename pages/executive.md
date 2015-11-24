@@ -62,7 +62,7 @@ Max is a fifth year undergraduate student in the Vancouver School of Economics a
 ##Secretary: Nicolas Moss
 _<info@thunderbirdband.ca>_
 
-Bio coming soon!
+Nic is a second-year civil engineering student originally from Connecticut. He plays quint toms with the TMB drumline, but has also been seen playing snare drum, bass drum, glockenspiel, piano, cello, clarinet, and vibraslap. When not pursing academic or musical endeavors, he can usually be found outside walking, running, hiking, biking, backpacking, or eating.
 
 </div><!-- /.medium-9.columns -->
 
