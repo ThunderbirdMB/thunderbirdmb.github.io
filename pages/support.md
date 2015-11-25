@@ -4,9 +4,11 @@ show_meta: false
 title: "Support the Band"
 permalink: "/support/"
 ---
-At only two years old, the Thunderbird Marching Band is one of the youngest university marching bands in North America. We are an entirely student-run organization, led by a six-member executive council and student staff. Because of this, the band provides UBC students not only with a musical performance opportunity, but with valuable leadership experience as well. The band is grateful for the funding we receive from Athletics and the AMS, but we rely on support from donors in order to keep growing.
+At only three years old, the Thunderbird Marching Band is one of the youngest university marching bands in North America. We are an entirely student-run organization, led by a six-member executive council and student staff. Because of this, the band provides UBC students not only with a musical performance opportunity, but with valuable leadership experience as well. The band is grateful for the funding we receive from Athletics and the AMS, but we rely on support from donors in order to keep growing.
 
-We are finalizing an online donation system for the band through the University. In the meantime, you can donate to the band by mailing a cheque (in Canadian or US dollars) addressed to "AMS Thunderbird Marching Band"  to:
+The easiest way to give to the band is to make a credit card payment online. Just [click here](https://www.donate.startanevolution.ca/ea-action/action?ea.client.id=1730&ea.campaign.id=40861), and select "Thunderbird Marching Band" from the list of teams.
+
+Don't have a credit card? You can still donate by mailing a cheque (in Canadian or US dollars) addressed to "AMS Thunderbird Marching Band"  to:
 
 __Thunderbird Marching Band  
 6138 Student Union Blvd  
