@@ -42,7 +42,7 @@ In addition to performing covers of music from a wide variety of genres (rock, t
 >"Tuum Est" wins the day, and we'll push on to Victory!
 <cite>Words and Music by Harold King (Education '32)</cite>
 
-##Alma Mater Hymn
+## Alma Mater Hymn
 >Alma Mater, by thy dwelling  
 >There is set the western sea,  
 >Mountains shed their benediction  
@@ -60,7 +60,7 @@ In addition to performing covers of music from a wide variety of genres (rock, t
 <cite>Words by Prof. H. T. Coleman  
 Music by D.O. Durkin (Arts '40)</cite>
 
-##Hail to the Gold and Blue  
+## Hail to the Gold and Blue  
 >Sons of our Alma Mater,  
 >Gird you against the foe,  
 >Count not the cost but fight boys,  
@@ -80,7 +80,7 @@ Music by D.O. Durkin (Arts '40)</cite>
 >Hail to the Gold and Blue.  
 <cite>Words and Music by Wm. C. Gibson (1931)</cite>
 
-##Here's to Dear Old U.B.C.
+## Here's to Dear Old U.B.C.
 >Come in all your fighting trim,  
 >Come in all your strength to win,  
 >Come and show your spirit for the BLUE and the GOLD.  
