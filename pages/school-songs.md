@@ -30,7 +30,7 @@ In addition to performing covers of music from a wide variety of genres (rock, t
 >Onward to victory  
 <cite>Words and Music by Prof. Stephen Chatman</cite>
 
-##The U.B.C. March
+## The U.B.C. March
 >We wear the blue and gold of the victors, we are the men of the U.B.C.  
 >All other teams acknowledge us masters. We are strong in adversity.  
 >There's work for the day and work for the morrow, we are the ones who will do our share.  
