@@ -17,7 +17,7 @@ Canada__
 
 We ask that you notify us at <treasurer@thunderbirdband.ca> before mailing a cheque in order to ensure that it is forwarded to us in a timely fashion, as well as to let us know if you would like to donate with recognition or anonymously. The band greatly appreciates donors who can contribute any amount, as small donations help us with the costs of unexpected instrument repairs, tuners, food for our new members at our annual August retreat, and guest clinicians.
 
-##Sponsor an Instrument
+## Sponsor an Instrument
 While flute, clarinet, saxophone, and trumpet players perform with the band on their own instruments, members of other sections such as the low brass and drumline do not typically own their instruments. To allow these members to perform with the band, we need to provide them with quality instruments. By sponsoring an instrument, you are giving a UBC student an opportunity to continue with music that otherwise would not be available to them.
 
 Listed below are the costs of the instruments we provide:
