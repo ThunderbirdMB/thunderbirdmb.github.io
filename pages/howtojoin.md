@@ -41,7 +41,7 @@ Basically, we  welcome __everyone__ who loves music and fun, regardless of exper
 The TMB spends four days before classes start at Retreat, where we learn our marching style, music, and get to know everyone. For Fall 2016, Retreat is from August 30 - September 2nd, and all our new members are especially encouraged to attend. If you're not from Vancouver, we can even help you find accommodations! __<a href="http://thunderbirdband.ca/join/" target="_blank">Click here to register for retreat</a>__.
 
 ## Step 3: Save the date and check your email!
-Talk to your boss/parents/friends _now_ and clear your schedule of any other commitments from __Tuesday, September 1st through Friday, September 4th__, since you won't want to miss __any__ of Retreat! Near the end of June, we will contact you by email to confirm your attendance at Retreat, help you find a place to stay if you need one, and provide you with more details about what to expect. Haven't heard from us by then? Give us a shout at <info@thunderbirdband.ca> and we'll make sure you're registered.
+Talk to your boss/parents/friends _now_ and clear your schedule of any other commitments from __Tuesday, August 30th through Friday, September 2nd__, since you won't want to miss __any__ of Retreat! Near the end of June, we will contact you by email to confirm your attendance at Retreat, help you find a place to stay if you need one, and provide you with more details about what to expect. Haven't heard from us by then? Give us a shout at <info@thunderbirdband.ca> and we'll make sure you're registered.
 
 ## Optional steps
 
