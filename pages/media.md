@@ -11,7 +11,7 @@ permalink: "/media/"
 ## Video
 
 <div class="row">
-  <div class="small-12 medium-6 large-6 columns" markdown="1">
+  <div class="small-12 medium-6 large-6 columns">
     <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThunderbirdMB%2Fvideos%2Fvb.538347076180936%2F1256512224364414%2F%3Ftype%3D3&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
   </div>
   <div class="small-12 medium-6 large-6 columns">
