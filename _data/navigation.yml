@@ -35,6 +35,11 @@
 - title: Media
   url: "/media/"
   side: left
+  dropdown:
+  - title: "Photos"
+    url: "/media/#Photos"
+  - title: "Video"
+    url: "/media/#Video"
   
 - title: Support
   url: "/support/"
