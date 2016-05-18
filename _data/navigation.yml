@@ -14,6 +14,10 @@
     url: "/about/school-songs/"
   - title: "Awards"
     url: "/about/awards/"
+  - title: "News"
+    url: "/news/"
+  - title: "Alumni"
+    url: "http://alumni.thunderbirdband.ca/"
 
 - title: Join
   url: "/join/"
@@ -27,7 +31,11 @@
     url: "/join/testimonials/"
   - title: "Join Now!"
     url: "/join/"
-    
+
+- title: Media
+  url: "/media/"
+  side: left
+  
 - title: Support
   url: "/support/"
   side: left
@@ -38,10 +46,6 @@
 
 - title: Calendar
   url: "/calendar/"
-  side: left
-
-- title: News
-  url: "/blog/"
   side: left
 
 - title: "Search"
