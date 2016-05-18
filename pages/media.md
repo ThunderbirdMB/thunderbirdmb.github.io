@@ -22,7 +22,7 @@ We've got a ton of videos on our [YouTube channel](http://youtube.com/thunderbir
   <div class="small-12 medium-12 large-6 columns">
     <iframe width="480" height="270" src="https://www.youtube.com/embed/MS_1bxcyswc?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
-  <div class="small-12 medium-12 large-6 clumns">
+  <div class="small-12 medium-12 large-6 cplumns">
     <iframe width="480" height="270" src="https://www.youtube.com/embed/kRmH8LHSy04?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
