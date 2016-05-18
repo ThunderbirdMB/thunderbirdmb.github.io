@@ -37,9 +37,9 @@
   side: left
   dropdown:
   - title: "Photos"
-    url: "/media/#Photos"
+    url: "/media/#photos"
   - title: "Video"
-    url: "/media/#Video"
+    url: "/media/#video"
   
 - title: Support
   url: "/support/"
