@@ -50,7 +50,7 @@ On our __<a href="http://facebook.com/groups/TMBRecruits" target="_blank">Prospe
 
 ### Follow us on social media and spread the word!
 - Facebook: __<a href="http://facebook.com/ThunderbirdMB" target="_blank">ThunderbirdMB</a>__
-- Twitter: __<a href="http://twitter.com/ThunderbirdMB" target="_blank">@ThunderbirdMB</a>__ - tweet #TbirdBandRetreat
+- Twitter: __<a href="http://twitter.com/ThunderbirdMB" target="_blank">@ThunderbirdMB</a>__ - our hashtag is #HailUBC
 - Instagram: __<a href="http://instagram.com/ubctmb" target="_blank">@ubctmb</a>__
 - Flickr: __<a href="http://flickr.com/ThunderbirdMB" target="_blank">ThunderbirdMB</a>__
 
