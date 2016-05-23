@@ -53,7 +53,7 @@ On our __<a href="http://facebook.com/groups/TMBRecruits" target="_blank">Prospe
 - Twitter: __<a href="http://twitter.com/ThunderbirdMB" target="_blank">@ThunderbirdMB</a>__ - our hashtag is #HailUBC
 - Instagram: __<a href="http://instagram.com/ubctmb" target="_blank">@ubctmb</a>__
 - Flickr: __<a href="http://flickr.com/ThunderbirdMB" target="_blank">ThunderbirdMB</a>__
-- SoundCloud: __<a href="http://soundcloud.com/ThunderbirdMB" target'"_blank">ThunderbirdMB</a>
+- SoundCloud: __<a href="http://soundcloud.com/ThunderbirdMB" target'"_blank">ThunderbirdMB</a>__
 
 ### Learn our school songs
 If you're _really_ excited to join, you can get a head start by practicing UBC's fight songs and our Alma Mater. This is __completely optional__, and we'll teach you these songs at Retreat too, but the more familiar you are with these songs, the more time you'll spend at retreat playing our fun rock charts!
