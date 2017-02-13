@@ -28,7 +28,7 @@ The TMB is one of nine student-run marching bands in North America. Our members 
 <div class="small-12 medium-8 large-8 columns" markdown="1">
 
 ## Where We Perform
-The bulk of our performances take place at UBC Thunderbirds athletics events, including football, hockey, basketball, volleyball, rugby and soccer! Even our musicians who never watched sports before attending UBC find that they love cheering on the teams of Canada's most successful university athletics program! Along with our Athletics gigs, we have also performed for other groups on campus, such as our parent organization the Alma Mater Society, Blank Vinyl Project, and UBC Residence Life. We've even performed a few off campus gigs in Richmond and Downtown Vancouver!
+The bulk of our performances take place at UBC Thunderbirds athletics events, including football, hockey, basketball, volleyball, rugby, and soccer! Even our musicians who never watched sports before attending UBC find that they love cheering on the teams of Canada's most successful university athletics program! Along with our Athletics gigs, we have also performed for other groups on campus, such as our parent organization the Alma Mater Society, Blank Vinyl Project, and UBC Residence Life. We've even performed a few off campus gigs in Richmond and Downtown Vancouver!
 
 
 If you would like the band to perform at your event, email us and we will let you know our availability We typically charge a small, negotiable performance fee.
@@ -40,4 +40,4 @@ If you would like the band to perform at your event, email us and we will let yo
 </div>
 
 ## Join Us
-Want to join the band? All UBC students, alumni, and community members are welcome! Fill out our [interest form](/join/) and we will get back to you soon. Retreat takes place from September 1-4, 2015, and we hope to see you there!
+Want to join the band? All UBC students, alumni, and community members are welcome! Fill out our [interest form](/join/) or message our [Facebook Page] (https://www.facebook.com/ThunderbirdMB/) and we will get back to you soon.
