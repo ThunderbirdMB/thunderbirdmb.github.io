@@ -18,7 +18,7 @@ Presently a second year undergraduate in the Faculty of Forestry at UBC, Andy is
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/exec_vivienne.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/exec_andy.jpg" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -49,7 +49,7 @@ _Bio coming soon!_
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/exec_max.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/exec_arial.jpg" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -65,7 +65,7 @@ _Bio coming soon!_
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/exec_max.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/exec_nadia.jpg" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -81,7 +81,7 @@ _Bio coming soon!_
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/exec_nic.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/exec_default.jpg" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -97,7 +97,7 @@ _Bio coming soon!_
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/exec_vicki.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/exec_alice.jpg" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -113,7 +113,7 @@ _Bio coming soon!_
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/exec_jess.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/exec_default.jpg" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
