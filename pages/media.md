@@ -17,7 +17,7 @@ We've got a ton of videos on our [YouTube channel](http://youtube.com/thunderbir
 
 <div class="row">
   <div class="small-12 medium-12 large-6 columns">
-    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThunderbirdMB%2Fvideos%2Fvb.538347076180936%2F1256512224364414%2F%3Ftype%3D3&show_text=0&width=480" width="480" height="270" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+     <iframe width="480" height="270" src="https://www.youtube.com/embed/1Xu-NhUq2vU?ecver=2" frameborder="0" allowfullscreen></iframe>
   </div>
   <div class="small-12 medium-12 large-6 columns">
     <iframe width="480" height="270" src="https://www.youtube.com/embed/PJ8eEfmr5B8?rel=0" frameborder="0" allowfullscreen></iframe>
