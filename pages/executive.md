@@ -11,10 +11,10 @@ The Thunderbird Marching Band is led by our six-member Executive team, consistin
 
 <div class="row">
     <div class="medium-9 columns" markdown="1">
-## President: Vivienne Zhang
+## President: Andy Fergusen
 _<president@thunderbirdband.ca>_
 
-Presently a second year undergraduate in the Faculty of Arts at UBC, Vivienne is more than delighted to participate in the Thunderbird Marching Band’s executive team. Vivienne spent her secondary school years in both Beijing, China and Coquitlam, BC, Canada. Over the past four years, rock music helped blossom her interest in learning new instruments such as drums, guitars, and basses, and now she plays the bass drum for the Thunderbird Marching Band. Aside from getting involved in the TMB, Vivienne is also a floor representative of House Dene and a member of the Totem Park Residence Association.
+Presently a second year undergraduate in the Faculty of Forestry at UBC, Andy is more than delighted to participate in the Thunderbird Marching Band’s executive team. Vivienne spent her secondary school years in both Beijing, China and Coquitlam, BC, Canada. 
 
 </div><!-- /.medium-9.columns -->
 
@@ -30,7 +30,7 @@ Presently a second year undergraduate in the Faculty of Arts at UBC, Vivienne is
 ## Drum Major: Fred Cholowski
 _<dm@thunderbirdband.ca>_
 
-Fred Cholowski is a third year arts student at UBC and the Drum Major of the Thunderbird Marching Band. Fred started playing the piano at the age of five and has been hooked on music ever since. Before joining the Thunderbird Marching Band Fred played the trumpet in bands of all shapes, sizes, and styles, while bringing his energy and enthusiasm to everywhere he played. Fred brings his musical knowledge and infectious energy to the Thunderbird Marching Band, striving to create new musical memories for years to come.
+Fred Cholowski is a fourth year Political Science student at UBC and the Drum Major of the Thunderbird Marching Band. Fred started playing the piano at the age of five and has been hooked on music ever since. Before joining the Thunderbird Marching Band Fred played the trumpet in bands of all shapes, sizes, and styles, while bringing his energy and enthusiasm to everywhere he played. Fred brings his musical knowledge and infectious energy to the Thunderbird Marching Band, striving to create new musical memories for years to come.
 
 </div><!-- /.medium-9.columns -->
 
@@ -43,7 +43,22 @@ Fred Cholowski is a third year arts student at UBC and the Drum Major of the Thu
 <div class="row">
     <div class="medium-9 columns" markdown="1">
 
-## Treasurer: Tim Yaroshuk
+## Member of Team Drum Major: Arial Eatherton
+
+_Bio coming soon!_
+
+</div><!-- /.medium-9.columns -->
+
+<div class="medium-3 columns">
+<img class="h2img" src="{{ site.url }}/images/exec_max.jpg" alt="">
+</div><!-- /.medium-3.columns -->
+
+</div><!-- /.row -->
+
+<div class="row">
+    <div class="medium-9 columns" markdown="1">
+
+## Treasurer: Nadia Kovari
 _<treasurer@thunderbirdband.ca>_
 
 _Bio coming soon!_
