@@ -11,7 +11,7 @@ The Thunderbird Marching Band is led by our six-member Executive team, consistin
 
 <div class="row">
     <div class="medium-9 columns" markdown="1">
-## President: Andy Fergusen
+## President: Andy Ferguson
 _<president@thunderbirdband.ca>_
 
 Presently a second year undergraduate in the Faculty of Forestry at UBC, Andy is more than delighted to participate in the Thunderbird Marching Band’s executive team. 
