@@ -13,10 +13,10 @@
   class: icon-facebook
   title: "Like us on Facebook!"
 
-- name: #Soundcloud
-  url: #http://soundcloud.com/phlow
-  class: #icon-soundcloud
-  title: #"Sounds und Downloads und mehr"
+- name: Soundcloud
+  url: http://soundcloud.com/ThunderbirdMB
+  class: icon-soundcloud
+  title: "Listen on SoundCloud!"
 
 - name: #GitHub
   url: #http://github.com/phlow
