@@ -16,7 +16,7 @@
 - name: Soundcloud
   url: http://soundcloud.com/ThunderbirdMB
   class: icon-soundcloud
-  title: "Listen on SoundCloud!"
+  title: "Listen to us on SoundCloud!"
 
 - name: #GitHub
   url: #http://github.com/phlow
