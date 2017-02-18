@@ -42,7 +42,7 @@ Fred Cholowski is a fourth year Political Science student at UBC and the Drum Ma
 <div class="row">
     <div class="medium-9 columns" markdown="1">
 
-## Member of Team Drum Major: Arial Eatherton
+## Assistant Drum Major: Arial Eatherton
 
 _Bio coming soon!_
 
