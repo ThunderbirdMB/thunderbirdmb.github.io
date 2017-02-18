@@ -31,7 +31,7 @@ subheadline: What you need to do to join the band
 - __Yep, I play a brass/woodwind/percussion instrument.__
   - Excellent! Brass, woodwind, and percussion are standard in marching bands, so you'll fit right in!
 - __Well, I play violin/viola/cello/guitar/piano...__
-  - We think _all_ musicians are awesome, so we'll find you a spot! If you know how to read music you can play cymbals or bass drum. Piano players find it easy to switch to glockenspiel, and we have electric bass and keyboard players in our ranks at indoor gigs. Of course, if you really want to join us on the instrument you already play, <a href="http://mob.rice.edu/sections/strings/" target="_blank">we won't stop you</a>!
+  - We think _all_ musicians are awesome, so we'll find you a spot! If you know how to read music you can play cymbals or bass drum. Piano players find it easy to switch to glockenspiel, and we have electric bass and keyboard players in our ranks at indoor gigs. Of course, if you really want to join us on the instrument you already play, <a href="https://twitter.com/TMBAlumni/status/831594056421498881" target="_blank">we won't stop you</a>!
 - __No, but this marching band thing sounds really cool and I really want to be a part of it!__
   - Go ahead and sign up anyway! Learning an instrument isn't that hard if you put in even a tiny bit of effort, and we would be more than willing to teach you. If it doesn't work out, hey, at least you tried!
 
