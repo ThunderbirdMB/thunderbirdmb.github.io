@@ -3,9 +3,14 @@
 - name: "UBC Athletics"
   url: "http://gothunderbirds.ca/"
   class: #"network-entypo"
-  title: "Icons by Daniel Bruce"
+  title: "University of British Columbia Thunderbirds"
 
 - name: "UBC Alma Mater Society"
   url: "http://ams.ubc.ca"
   class: #"services-newsletter"
-  title: "Built on Foundation"
+  title: "Alma Mater Society of the University of British Columbia"
+  
+  - name: "TMB Alumni Association"
+  url: "http://alumni.thunderbirdband.ca"
+  class: #"services-newsletter"
+  title: "Thunderbird Marching Band Alumni Association"
