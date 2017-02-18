@@ -10,7 +10,7 @@
   class: #"services-newsletter"
   title: "Alma Mater Society of the University of British Columbia"
   
-  - name: "TMB Alumni Association"
+- name: "TMB Alumni Association"
   url: "http://alumni.thunderbirdband.ca"
   class: #"services-newsletter"
   title: "Thunderbird Marching Band Alumni Association"
