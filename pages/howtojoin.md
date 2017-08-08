@@ -37,16 +37,13 @@ subheadline: What you need to do to join the band
 
 Basically, we  welcome __everyone__ who loves music and fun, regardless of experience, so don't be afraid to join!
 
-## Step 2: Register for Fall Retreat
-The TMB spends four days before classes start at Retreat, where we learn our marching style, music, and get to know everyone. For Fall 2016, Retreat is from August 30 - September 2nd, and all our new members are especially encouraged to attend. If you're not from Vancouver, we can even help you find accommodations! __<a href="http://thunderbirdband.ca/join/" target="_blank">Click here to register for retreat</a>__.
+## Step 2: Fill out our Interest Form!
+Filling out our [interest form](/join/) helps us get to know you before you come to rehearsal - this way we'll have materials like sheet music ready to go! 
 
-## Step 3: Save the date and check your email!
-Talk to your boss/parents/friends _now_ and clear your schedule of any other commitments from __Tuesday, August 30th through Friday, September 2nd__, since you won't want to miss __any__ of Retreat! Near the end of June, we will contact you by email to confirm your attendance at Retreat, help you find a place to stay if you need one, and provide you with more details about what to expect. Haven't heard from us by then? Give us a shout at <info@thunderbirdband.ca> and we'll make sure you're registered.
+## Step 3: Attend our first rehearsal of the year!
+TMB's rehearsals are a great way to meet new people with similar interests, learn some awesome music, and practice marching! We've tentatively set this rehearsal on Tuesday, September 5th, from 6:30-8:00PM. Enjoy an awesome Imagine Day, then swing on by to rehearsal to see what we're all about!
 
 ## Optional steps
-
-### Join our Facebook group
-On our __<a href="http://facebook.com/groups/TMBRecruits" target="_blank">Prospective Members' Group</a>__, you can meet some of our returning members, ask questions about the band or UBC in general, and get a taste of what to expect once you join!
 
 ### Follow us on social media and spread the word!
 - Facebook: __<a href="http://facebook.com/ThunderbirdMB" target="_blank">ThunderbirdMB</a>__
