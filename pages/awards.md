@@ -10,6 +10,7 @@ Every year, the members of the Thunderbird Marching Band vote on several awards 
 ## Section of the Year
 The *Section of the Year* award is given annually to the TMB section that demonstrates the utmost levels of commitment, dedication, musicality, and spirit to the band.
 
+ *  2017-18: Percussion
  *  2016-17: Percussion & Saxophones
  *  2015-16: Percussion
  *  2014-15: Percussion
@@ -19,6 +20,7 @@ The *Section of the Year* award is given annually to the TMB section that demons
 ## Harold King Award
 The *Harold King Award*, named after author of "The U.B.C. March" Harold King, is given annually to a TMB member who demonstrates excellent levels of commitment, dedication, and spirit in their service to the band. A member may only receive this award once.
 
+ *  2017-18: Nicolas Moss
  *  2016-17: Andy Ferguson
  *  2015-16: Fred Cholowski
  *  2014-15: Vivienne Zhang
@@ -28,6 +30,7 @@ The *Harold King Award*, named after author of "The U.B.C. March" Harold King, i
 ## Rookie of the Year
 The *Rookie of the Year* award is given to the first-year band member who exhibits exemplary musical talent and dedication in their service to the band.
 
+ *  2017-18: Albert Shoshany-Glosser
  *  2016-17: Nadia Kovari
  *  2015-16: JJ Hum
  *  2014-15: Jonathan Zhang
