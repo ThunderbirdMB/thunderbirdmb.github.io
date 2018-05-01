@@ -20,7 +20,7 @@ _Bio coming soon!_
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/Exec_Default.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/Exec_Default.png" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -36,7 +36,7 @@ Nic is a fifth-year civil engineering student originally from Connecticut. Befor
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/Exec_Default.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/Exec_Default.png" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -52,7 +52,7 @@ _Bio coming soon!_
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/Exec_Default.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/Exec_Default.png" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -84,7 +84,7 @@ _Bio coming soon!_
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/Exec_Default.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/Exec_Default.png" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
