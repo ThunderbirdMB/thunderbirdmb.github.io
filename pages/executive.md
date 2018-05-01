@@ -11,45 +11,16 @@ The Thunderbird Marching Band is led by our six-member Executive team, consistin
 
 <div class="row">
     <div class="medium-9 columns" markdown="1">
-## President: Andy Ferguson
+        
+## President: Dash Foster
 _<president@thunderbirdband.ca>_
-
-Presently a second year undergraduate in the Faculty of Forestry at UBC, Andy is more than delighted to participate in the Thunderbird Marching Band’s executive team. 
-</div><!-- /.medium-9.columns -->
-
-<div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/Exec_Andy.jpg" alt="">
-</div><!-- /.medium-3.columns -->
-
-</div><!-- /.row -->
-
-<div class="row">
-    <div class="medium-9 columns" markdown="1">
-
-## Drum Major: Fred Cholowski
-_<dm@thunderbirdband.ca>_
-
-Fred Cholowski is a fourth year Political Science student at UBC and the Drum Major of the Thunderbird Marching Band. Fred started playing the piano at the age of five and has been hooked on music ever since. Before joining the Thunderbird Marching Band Fred played the trumpet in bands of all shapes, sizes, and styles, while bringing his energy and enthusiasm to everywhere he played. Fred brings his musical knowledge and infectious energy to the Thunderbird Marching Band, striving to create new musical memories for years to come.
-
-</div><!-- /.medium-9.columns -->
-
-<div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/Exec_Fred.jpg" alt="">
-</div><!-- /.medium-3.columns -->
-
-</div><!-- /.row -->
-
-<div class="row">
-    <div class="medium-9 columns" markdown="1">
-
-## Assistant Drum Major: Arial Eatherton
 
 _Bio coming soon!_
 
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/Exec_Arial.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/Exec_Default.jpg" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -57,7 +28,23 @@ _Bio coming soon!_
 <div class="row">
     <div class="medium-9 columns" markdown="1">
 
-## Treasurer: Nadia Kovari
+## Drum Major: Nicolas Moss
+_<dm@thunderbirdband.ca>_
+
+Nic is a fifth-year civil engineering student originally from Connecticut. Before becoming drum major, he played quint toms with the TMB drumline, but has also been seen playing snare drum, bass drum, glockenspiel, piano, cello, clarinet, and vibraslap. When not pursing academic or musical endeavors, he can usually be found outside walking, running, hiking, or biking.
+
+</div><!-- /.medium-9.columns -->
+
+<div class="medium-3 columns">
+<img class="h2img" src="{{ site.url }}/images/Exec_Default.jpg" alt="">
+</div><!-- /.medium-3.columns -->
+
+</div><!-- /.row -->
+
+<div class="row">
+    <div class="medium-9 columns" markdown="1">
+
+## Treasurer: Lia Pennefather
 _<treasurer@thunderbirdband.ca>_
 
 _Bio coming soon!_
@@ -65,7 +52,7 @@ _Bio coming soon!_
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/Exec_Nadia.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/Exec_Default.jpg" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -73,7 +60,7 @@ _Bio coming soon!_
 <div class="row">
     <div class="medium-9 columns" markdown="1">
     
-## Secretary: Dash Foster
+## Secretary: Colin Koncz
 _<info@thunderbirdband.ca>_
 
 _Bio coming soon!_
@@ -89,7 +76,7 @@ _Bio coming soon!_
 <div class="row">
     <div class="medium-9 columns" markdown="1">
     
-## Publicity Officer: Alice Huang
+## Publicity Officer: Nicole Cheng
 _<publicity@thunderbirdband.ca>_
 
 _Bio coming soon!_
@@ -97,7 +84,7 @@ _Bio coming soon!_
 </div><!-- /.medium-9.columns -->
 
 <div class="medium-3 columns">
-<img class="h2img" src="{{ site.url }}/images/Exec_Alice.jpg" alt="">
+<img class="h2img" src="{{ site.url }}/images/Exec_Default.jpg" alt="">
 </div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -105,7 +92,7 @@ _Bio coming soon!_
 <div class="row">
     <div class="medium-9 columns" markdown="1">
     
-## Logistics Officer: Valeria Suarez Gomez
+## Logistics Officer: Ashley Viljoen
 _<logistics@thunderbirdband.ca>_
 
 _Bio coming soon!_
