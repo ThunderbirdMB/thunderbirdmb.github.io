@@ -40,4 +40,4 @@ If you would like the band to perform at your event, email us and we will let yo
 </div>
 
 ## Join Us
-Want to join the band? All UBC students, alumni, and community members are welcome! Fill out our [interest form](/join/) or message our [Facebook Page](https://www.facebook.com/ThunderbirdMB/) and we will get back to you soon.
+Want to join the band? All UBC students, alumni, and community members are welcome! Fill out our [interest form](/join/) or message our [Facebook Page](https://www.facebook.com/ubctmb/) and we will get back to you soon.
