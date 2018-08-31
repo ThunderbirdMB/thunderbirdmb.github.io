@@ -4,17 +4,17 @@
   title: "TMB Youtube Channel"
 
 - name: Twitter
-  url: http://twitter.com/ThunderbirdMB
+  url: http://twitter.com/ubctmb
   class: icon-twitter
   title: "Follow us on Twitter!"
 
 - name: Facebook
-  url: http://www.facebook.com/ThunderbirdMB
+  url: http://www.facebook.com/ubctmb
   class: icon-facebook
   title: "Like us on Facebook!"
 
 - name: Soundcloud
-  url: http://soundcloud.com/ThunderbirdMB
+  url: http://soundcloud.com/ubctmb
   class: icon-soundcloud
   title: "Listen to us on SoundCloud!"
 
