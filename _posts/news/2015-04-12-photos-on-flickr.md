@@ -14,7 +14,7 @@ The band now has a [Flickr account](http://flickr.com/thunderbirdmb), so you can
 
 Don't forget to check out our other social media sites!
 
-- __Facebook__: [Thunderbird Marching Band](http://facebook.com/ThunderbirdMB)
-- __Twitter__: [@ThunderbirdMB](http://twitter.com/ThunderbirdMB)
+- __Facebook__: [Thunderbird Marching Band](http://facebook.com/ubctmb)
+- __Twitter__: [@ubctmb](http://twitter.com/ubctmb)
 - __YouTube__: [ThunderbirdMB](http://youtube.com/ThunderbirdMB)
 - __Instagram__: [@ubctmb](http://instagram.com/ubctmb)
