@@ -43,7 +43,7 @@ widget-3:
   <div class="medium-6 columns">
   <div class="fb-page" data-href="https://www.facebook.com/thunderbirdmb" data-width="500" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/thunderbirdmb"><a href="https://www.facebook.com/thunderbirdmb">Thunderbird Marching Band</a></blockquote></div></div>
   </div>
-  <div class="medium-6 columns"><a class="twitter-timeline" href="https://twitter.com/thunderbirdmb" data-widget-id="587828624029384704">Tweets by @thunderbirdmb</a>
+  <div class="medium-6 columns"><a class="twitter-timeline" href="https://twitter.com/ubctmb" data-widget-id="587828624029384704">Tweets by @ubctmb</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
 </div>
