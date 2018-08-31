@@ -46,11 +46,11 @@ TMB's rehearsals are a great way to meet new people with similar interests, lear
 ## Optional steps
 
 ### Follow us on social media and spread the word!
-- Facebook: __<a href="http://facebook.com/ThunderbirdMB" target="_blank">ThunderbirdMB</a>__
-- Twitter: __<a href="http://twitter.com/ThunderbirdMB" target="_blank">@ThunderbirdMB</a>__ - our hashtag is #HailUBC
+- Facebook: __<a href="http://facebook.com/ubctmb" target="_blank">Thunderbird Marching Band</a>__
+- Twitter: __<a href="http://twitter.com/ubctmb" target="_blank">@ubctmb</a>__ - our hashtag is #HailUBC
 - Instagram: __<a href="http://instagram.com/ubctmb" target="_blank">@ubctmb</a>__
 - Flickr: __<a href="http://flickr.com/ThunderbirdMB" target="_blank">ThunderbirdMB</a>__
-- SoundCloud: __<a href="http://soundcloud.com/ThunderbirdMB" target="_blank">ThunderbirdMB</a>__
+- SoundCloud: __<a href="http://soundcloud.com/ubctmb" target="_blank">ubctmb</a>__
 
 ### Learn our school songs
 If you're _really_ excited to join, you can get a head start by practicing UBC's fight songs and our Alma Mater. This is __completely optional__, and we'll teach you these songs at Retreat too, but the more familiar you are with these songs, the more time you'll spend at retreat playing our fun rock charts!
