@@ -7,7 +7,7 @@ permalink: /about/executive/
 published: true
 ---
 
-The Thunderbird Marching Band is led by our six-member Executive team, consisting entirely of UBC students. You can see a further in-depth look at our organizational structure in our [Constitution](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0aHVuZGVyYmlyZG1hcmNoaW5nYmFuZHxneDo1NzE1MDYxMWY5NjhhMDky).
+The Thunderbird Marching Band is led and governed by our elected six-member Executive team, consisting entirely of UBC students. Additionally, the Executive appoints student staff to assist with running the band. You can see a further in-depth look at our organizational structure in our [Constitution](#).
 
 <div class="row">
     <div class="medium-9 columns" markdown="1">
@@ -105,10 +105,11 @@ Ashley is in her third year at UBC, majoring in food and nutritional health. Her
 
 </div><!-- /.row -->
 
+
+## Staff
 <div class="row">
     <div class="medium-9 columns" markdown="1">
 
-## Staff
 ### Vice President: Nadia Kovari
 <vp@thunderbirdband.ca>
 
