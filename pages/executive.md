@@ -1,8 +1,8 @@
 ---
 show_meta: false
 layout: "page-fullwidth"
-title: The Executive
-subheadline: Our Student Leaders
+title: Leadership Team
+subheadline: Our Executive & Student Staff
 permalink: /about/executive/
 published: true
 ---
