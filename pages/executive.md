@@ -9,6 +9,8 @@ published: true
 
 The Thunderbird Marching Band is led and governed by our elected six-member Executive team, consisting entirely of UBC students. Additionally, the Executive appoints student staff to assist with running the band. You can see a further in-depth look at our organizational structure in our [Constitution](#).
 
+## Executive
+
 <div class="row">
     <div class="medium-9 columns" markdown="1">
         
@@ -44,7 +46,7 @@ Nic is a fifth-year civil engineering student. Before becoming drum major, he pl
 <div class="row">
     <div class="medium-9 columns" markdown="1">
 
-## Treasurer: Lia Pennefather
+### Treasurer: Lia Pennefather
 _<treasurer@thunderbirdband.ca>_
 
 _Bio coming soon!_
