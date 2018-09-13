@@ -49,7 +49,7 @@ Nic is a fifth-year civil engineering student. Before becoming drum major, he pl
 ### Treasurer: Lia Pennefather
 _<treasurer@thunderbirdband.ca>_
 
-_Bio coming soon!_
+Lia is a saxophonist and flutist in 3rd year Computer Science. She loves band, dancing, and dancing in band. Feel free to come say hi!
 
 </div><!-- /.medium-9.columns -->
 
